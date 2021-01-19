@@ -1,4 +1,4 @@
-# Perfect Markdown 在线编辑器代码示范 [English](README.md)  [繁体中文](README.zh_TW.md)
+# Perfect Markdown 在线编辑器代码示范 [English](README.md) [繁体中文](README.zh_TW.md)
 
 <p align="center">
     <a href="http://perfect.org/get-involved.html" target="_blank">
